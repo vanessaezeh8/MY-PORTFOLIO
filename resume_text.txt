@@ -1,0 +1,103 @@
+​
+
+​
+
+​
+
+VANESSA ONYINYE EZEH
+
+vanessaezeh8@gmail.com | 318-570 9445 | www.linkedin.com/in/vanessaezeh |github.com/vanessaezeh
+
+EDUCATION
+Grambling State University ​​
+​
+​
+​
+​
+​
+​
+​
+May 2028
+Bachelor of Science in Computer Science
+4.0/4.0
+Relevant Coursework: Object Oriented Programming, Data Structures and Algorithms, Computer Organization and Architecture,
+Programming Language Concept, Discrete Structure, Calculus 1&2, Probability and Statistics.
+Awards: Academic Achievement Award Scholar, President's List, Citi Tmcf Scholar, Traders at Berkeley Scholar
+
+TECHNICAL SKILLS
+Languages: Python, HTML, CSS, JavaScript, SQL.
+Libraries/Frameworks: React, Node.js, Express.js, Next.js, MongoDB, PostgreSQL, Numpy, TensorFlow, NLTK.
+Tools/Technologies: Figma, Google Colab, Github, Git, Jupiter Notebook.
+
+EXPERIENCE
+Meta
+​
+Menlo Park, CA
+Incoming Software Engineering Intern​ ​
+June 2025 - August 2025
+Uber
+Remote
+Software Engineering Fellowship ​
+​
+​
+​
+January 2025- Present
+●​ Selected as 1 of 52 from 1400+ applicants (4% acceptance) for an 8-month data structures and algorithms program
+●​ Excelled in 15 mock interviews with Uber software engineers, improving algorithm-style problem-solving skills and reducing
+average solution time by 30%.
+●​ Enhanced proficiency in 10+ core computer science concepts through weekly challenges, solving 50+ coding problems, and
+improving problem-solving efficiency by 30%.
+PwC x Outamation
+Remote
+AI Intern
+​
+​
+​
+​
+Feburary 2025- April 2025
+●​ Completed a 10-week AI externship, leveraging computer vision, NLP, and Python libraries (PyPDF2, pdfplumber) to
+automate finance document processing, improving data extraction efficiency by 80% across 5+ document types.
+●​ Developed and optimized OCR-driven data pipelines with Label Studio, extracting key insights from financial documents
+(e.g., balance sheets, income statements), improving data processing speed by 70% and enhancing accuracy by 85%.
+●​ Implemented and fine-tuned RAG pipelines using Mistral and LLaMA models, accelerating mortgage document
+classification by 70% and reducing manual intervention in document review by 75%.
+PROJECTS
+Trackmate
+●​ Developed a full-stack expense-tracking web application for college students using Next.js, React, Tailwind CSS, and
+PostgreSQL, enabling real-time budget tracking and improving financial management efficiency by 30% for 50+ users.
+●​ Enhanced platform reliability by integrating Drizzle ORM for seamless data handling and implementing Clerk
+OAuth for user authentication, reducing login/authentication errors by 30% and boosting user retention by 20%.
+Savemate
+●​ Developed a Python-based financial advisory chatbot using NLTK and Numpy, delivering personalized budgeting
+advice and improving financial literacy for 50+ college students, leading to a 25% increase in user engagement.
+●​ Optimized chatbot performance by training a TensorFlow neural network with 128-neuron dense layers and dropout
+regularization, improving response accuracy by 50% and reducing average response time by 20%.
+
+LEADERSHIP AND INVOLVEMENT
+Girls Who Code Club ​ ​
+​
+​
+​
+​
+​
+​
+​
+​
+Grambling, LA
+Founder / President ​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+August 2024 – Present
+●​ Founded Grambling State University's first Girls Who Code chapter, leading 20+ female students to explore coding and
+technology careers, resulting in a 30% increase in CS club membership and 5+ students securing tech internships.
+Additional Involvements: CodePath, Rewriting the Code member, ColorStack member, Headstart Fellow, Girls Who Code,
+National Society of Black Engineers, Association of Computer Machinery, International Students Organization.
+
+
